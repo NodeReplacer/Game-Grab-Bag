@@ -1,4 +1,4 @@
-# Game-Grab-Bag
+# C++ Game-Grab-Bag
 Just consolidating all 3 of the repositories into one landing page.
 
 Minesweeper: https://github.com/NodeReplacer/Minesweeper-with-SFML
